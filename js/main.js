@@ -298,7 +298,7 @@ while(objetivo != "conseguido"){
                             alert("Para deshacerte de los lobos ingresa este código: ladridosX100")
                         }else if(convencer === validarConvencer2){
                             alert("le diste comida para perros a los perros guardianes, estan agradecidos")
-                            alert("pero ahora están muy llenos para seguirte y mover el ort..")
+                            alert("pero ahora están con la panza llena y no podrán seguirte")
                         }else{
                             alert("ingresaste mal el código")
                         }
